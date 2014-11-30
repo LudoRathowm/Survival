@@ -1,0 +1,32 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6800 Series (ID=0x6739)
+    Vendor:   ATI
+    VRAM:     1015 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marco\Documents\Survival\wololo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marco\Documents\Survival\wololo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marco\Documents\Survival\wololo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marco\Documents\Survival\wololo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marco\Documents\Survival\wololo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Marco\Documents\Survival\wololo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 2.367937 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.918866 ms (FindLiveObjects: 0.035962 ms CreateObjectMapping: 0.023755 ms MarkObjects: 0.146820 ms  DeleteObjects: 0.006268 ms)
+
