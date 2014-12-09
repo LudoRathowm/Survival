@@ -1,5 +1,5 @@
 Base path: C:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-1092
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5228
 Cmd: getPlatforms
 Cmd: preprocess
   insize=447 outsize=447 ok=1
@@ -48,9 +48,9 @@ Cmd: compileSnippet
 Cmd: preprocess
   insize=2933 outsize=203 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2950 outsize=673 kw=DIRECTIONAL_SHAFTS LIGHT_ON_SCREEN ok=1
+  api=4 type=0 insize=2950 outsize=673 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2950 outsize=5125 kw=DIRECTIONAL_SHAFTS LIGHT_ON_SCREEN ok=1
+  api=4 type=1 insize=2950 outsize=5125 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS ok=1
 Cmd: preprocess
   insize=1099 outsize=1250 ok=1
 Cmd: compileSnippet
@@ -118,9 +118,9 @@ Cmd: compileSnippet
 Cmd: preprocess
   insize=7006 outsize=291 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6815 outsize=868 kw=DIRECTIONAL_SHAFTS LIGHT_ON_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+  api=4 type=0 insize=6815 outsize=868 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6815 outsize=8164 kw=DIRECTIONAL_SHAFTS LIGHT_ON_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+  api=4 type=1 insize=6815 outsize=8164 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
 Cmd: preprocess
   insize=1013 outsize=1267 ok=1
 Cmd: compileSnippet
@@ -186,9 +186,9 @@ Cmd: compileSnippet
 Cmd: preprocess
   insize=4254 outsize=230 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4197 outsize=665 kw=COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON DIRECTIONAL_SHAFTS ok=1
+  api=4 type=0 insize=4197 outsize=665 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4197 outsize=5629 kw=COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON DIRECTIONAL_SHAFTS ok=1
+  api=4 type=1 insize=4197 outsize=5629 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON ok=1
 Cmd: preprocess
   insize=1576 outsize=991 ok=1
 Cmd: compileSnippet
@@ -355,31 +355,3 @@ Cmd: compileSnippet
   api=4 type=0 insize=2465 outsize=2875 kw=POINT ok=1
 Cmd: compileSnippet
   api=4 type=1 insize=2465 outsize=1607 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=5868 outsize=1298 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=5868 outsize=2517 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=2 insize=5868 outsize=7750 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=3 insize=5868 outsize=5353 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2465 outsize=1851 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2465 outsize=1193 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=5700 outsize=1298 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=5700 outsize=2517 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=2 insize=5700 outsize=7815 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=3 insize=5700 outsize=4386 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2847 outsize=1851 kw=DIRECTIONAL ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2847 outsize=1339 kw=DIRECTIONAL ok=1
-Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
-
-
-Quitting shader compiler process
