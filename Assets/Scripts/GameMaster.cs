@@ -35,5 +35,8 @@ public class GameMaster : MonoBehaviour {
 			Winner = "Player 1";
 			Debug.Log ("NO");
 			alreadyawinner = true;}
+	if (Input.GetButtonDown("Esc"))
+		    Time.timeScale=0;
+	
 	}
 }

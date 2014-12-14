@@ -46,6 +46,17 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AdjustFuel.cs" />
+     <Compile Include="Assets\BulletLife.cs" />
+     <Compile Include="Assets\ChangeScene.cs" />
+     <Compile Include="Assets\EyeFollowScript.cs" />
+     <Compile Include="Assets\FinalWinner.cs" />
+     <Compile Include="Assets\GravitationCameraTarget.cs" />
+     <Compile Include="Assets\GravitationGameMaster.cs" />
+     <Compile Include="Assets\GravitationProcGen.cs" />
+     <Compile Include="Assets\GravityBulletScript.cs" />
+     <Compile Include="Assets\PlanetGravitation.cs" />
+     <Compile Include="Assets\PlayerTurn.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" />
@@ -126,6 +137,7 @@
      <Compile Include="Assets\Sample Assets\Vehicles\Car\Scripts\Wheel.cs" />
      <Compile Include="Assets\Sample Assets\Vehicles\Rolling Ball\Scripts\Ball.cs" />
      <Compile Include="Assets\Sample Assets\Vehicles\Rolling Ball\Scripts\BallUserControl.cs" />
+     <Compile Include="Assets\ScoreOrbital.cs" />
      <Compile Include="Assets\Scripts\BombDropper.cs" />
      <Compile Include="Assets\Scripts\CameraTarget.cs" />
      <Compile Include="Assets\Scripts\FlyingBomber.cs" />
@@ -145,6 +157,8 @@
      <Compile Include="Assets\Scripts\Victory.cs" />
      <Compile Include="Assets\Scripts\bulletscript.cs" />
      <Compile Include="Assets\Scripts\pewpewgun.cs" />
+     <Compile Include="Assets\SpaceshipScript.cs" />
+     <Compile Include="Assets\WinnerOrbitation.cs" />
      <None Include="Assets\Sample Assets\Effects\Toon Shading\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Sample Assets\Prototyping\Shaders\WorldCoord Diffuse.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\SamplePositions.shader" />

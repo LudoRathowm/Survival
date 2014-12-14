@@ -1,26 +1,22 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ThrowingKnife.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScoreOrbital.cs">
     <Files>
-      <File FileName="Assets\Scripts\Player.cs" Line="243" Column="4" />
-      <File FileName="..\..\Downloads\Platformer-master-inb4-pc-death\Platformer-master-inb4-pc-death\Platformer-master\Platformer-master\Assets\PlayerAttackColliders.cs" Line="1" Column="1" />
-      <File FileName="..\..\Downloads\Platformer-master-inb4-pc-death\Platformer-master-inb4-pc-death\Platformer-master\Platformer-master\Assets\Gravity.cs" Line="1" Column="1" />
-      <File FileName="..\..\Downloads\Platformer-master-inb4-pc-death\Platformer-master-inb4-pc-death\Platformer-master\Platformer-master\Assets\GravityControl.cs" Line="1" Column="1" />
-      <File FileName="..\..\Downloads\Platformer-master-inb4-pc-death\Platformer-master-inb4-pc-death\Platformer-master\Platformer-master\Assets\Sample Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\PlayerSpawner.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Spawner.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CameraTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\GravitationProcGen.cs" Line="24" Column="40" />
+      <File FileName="Assets\Scripts\KnifeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\SpaceshipScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlanetGravitation.cs" Line="1" Column="1" />
+      <File FileName="Assets\EyeFollowScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\GravityBulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\GravitationGameMaster.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\RotateTest.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\KnifeScript.cs" Line="22" Column="86" />
-      <File FileName="Assets\Scripts\bulletscript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Victory.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\GameMaster.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MovingUpPlatform.cs" Line="1" Column="1" />
-      <File FileName="..\..\Downloads\Platformer-master-inb4-pc-death\Platformer-master-inb4-pc-death\Platformer-master\Platformer-master\Assets\BirdAI.cs" Line="1" Column="1" />
-      <File FileName="..\..\Downloads\Platformer-master-inb4-pc-death\Platformer-master-inb4-pc-death\Platformer-master\Platformer-master\Assets\BirdAnus.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Hazard.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\pewpewgun.cs" Line="57" Column="4" />
-      <File FileName="Assets\Scripts\ThrowingKnife.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\pewpewgun.cs" Line="37" Column="57" />
+      <File FileName="Assets\AdjustFuel.cs" Line="1" Column="1" />
+      <File FileName="Assets\BulletLife.cs" Line="1" Column="1" />
+      <File FileName="Assets\GravitationCameraTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\WinnerOrbitation.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScoreOrbital.cs" Line="39" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
